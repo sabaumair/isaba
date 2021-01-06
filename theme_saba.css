@@ -68,7 +68,7 @@ d-appendix {
   --text-color:       rgba(255, 255, 255, 0.8);
   --text-size:        15px;
   --hover-color:      white;
-  --bkgd-color:       #391509;
+  --bkgd-color:      #202423;
 }
 
 .distill-site-footer {
@@ -82,5 +82,5 @@ d-appendix {
 /* Add any additional CSS rules below                      */
 
 body {
-  background-color: #eadbcb;
+  background-color: #daf2f0;
 }
