@@ -1,15 +1,34 @@
 ---
-title: "isaba"
-description: |
-  Welcome to the website. I hope you enjoy it!
+title: "Saba Ikhlaq"
+image: "saba.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/saba-ikhlaq-010927178"
+  - label: Twitter
+    url: "https://twitter.com/IkhlaqSaba"
+  - label: GitHub
+    url: "https://github.com/sabaumair"
+output:
+  postcards::trestles
 site: distill::distill_website
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
 
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
 
-```
+## Bio
 
+My Bio
+
+## Education
+
+**UET** | Lahore, Pakistan
+
+B.Sc.(Hons) Transportation Engineering | September 2005 - May 2009
+
+
+
+## Experience
+
+**TPU** | TP | January 2018 - Present
+
+**MTA** | Research Scientist | June 2014 - December 2017
