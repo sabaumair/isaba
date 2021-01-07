@@ -19,16 +19,37 @@ site: distill::distill_website
 
 My Bio
 
-## Education
+## Education and Training
 
-**UET** | Lahore, Pakistan
+**Women’s Enterprise Skills Training of Windsor Inc. ** | Windsor, Ontario
 
-B.Sc.(Hons) Transportation Engineering | September 2005 - May 2009
+Supporting Visible Minority Newcomer Women Certificate |2020
+
+**Data Camp ** |Online
+
+Data Scientist with R Course  |2019
+
+**University of Engineering and Technology ** | Lahore, Pakistan
+
+M.Sc.Transportation Engineering |2015
+
+**University of Engineering and Technology ** | Lahore, Pakistan
+
+B.Sc. (Hons) Transportation Engineering |2009
 
 
 
 ## Experience
 
-**TPU** | TP | January 2018 - Present
+**Sutherland Global Services** |Customer Service Representative |2017 - 2018
 
-**MTA** | Research Scientist | June 2014 - December 2017
+**Transport Planning Unit** |Transport Planner  |2015 - 2016
+
+**Punjab Masstransit Authority** |Assistant Manager Intelligent Transportation Systems/Traffic  |2013 - 2015
+
+**The Urban Unit** | Research Associate, Urban Transport  |2011 -2013
+
+**Myco Surveys (Pvt) Limited** | Household Interview Survey (HIS) Supervisor  |2010 - 2011
+
+**Traffic Engineering and Transport Planning Agency (TEPA)** | Transportation Engineer  | 2009 - 2010
+
